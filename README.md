@@ -5,3 +5,5 @@
 CS2 Lab 1
 
 `code written like this`
+
+Changing on the terminal.
